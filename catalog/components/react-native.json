@@ -1959,5 +1959,11 @@
     "name": "react-native-pingpp",
     "repo": "weflex/react-native-pingpp",
     "description": "A React-Native(RN) binding library for Ping++"
+  },
+  
+  {
+    "name": "react-native-rest-kit",
+    "repo": "peter4k/react-native-rest-kit",
+    "description": "A backbone-like model structure network kit. So that you can simply call save, update, fetch method on each model"
   }
 ]
